@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **java development, object-oriented programming**
 
-- 📫 How to reach me **writczt@gmail.con**
+- 📫 How to reach me **writczt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
